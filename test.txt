@@ -1,4 +1,4 @@
-this is test for git 
+feature1 
 change data in testGit2
 edit in develop
 edit this file from feature1
