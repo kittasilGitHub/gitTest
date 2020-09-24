@@ -1,2 +1,2 @@
-this is test for git 
+feature2 
 change data in testGit2
