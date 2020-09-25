@@ -1,3 +1,8 @@
 feature1 
 change data in testGit2
 edit this file from feature1
+
+
+
+
+line 8
